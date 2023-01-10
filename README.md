@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_tejasmane" target="blank"><img src="https://img.shields.io/twitter/follow/_tejasmane?logo=twitter&style=for-the-badge" alt="_tejasmane" /></a> </p>
 
-- 🔭 I’m currently working on [Platform9](https://platform9.com/)
+- 🔭 I’m currently working on **EKS Cluster Disaster Recovery using Velero**
 
 - 🌱 I’m currently learning **Istio Service Mesh, ArgoCD, Amazon EKS**
 
