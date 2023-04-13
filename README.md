@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/_tejasmane" target="blank"><img src="https://img.shields.io/twitter/follow/_tejasmane?logo=twitter&style=for-the-badge" alt="_tejasmane" /></a> </p>
 
-- 🔭 I’m currently working on **[EKS Cluster Disaster Recovery](https://aws.amazon.com/blogs/containers/backup-and-restore-your-amazon-eks-cluster-resources-using-velero/) using [Velero](https://velero.io/)**
+- 🔭 I’m currently working on **Setting up the Prometheus Monitoring on ECS Cluster**
 
-- 🌱 I’m currently learning **Istio Service Mesh, ArgoCD, Amazon EKS**
+- 🌱 I’m currently learning **Prometheus/Grafana, Istio Service Mesh, Amazon EKS**
 
 - 👯 I’m looking to collaborate on **Kubernetes**
 
 - 📝 I regularly write articles on [https://medium.com/@tejasmane485](https://medium.com/@tejasmane485)
 
-- 💬 Ask me about **Kubernetes, Golang, DevOps**
+- 💬 Ask me about **Kubernetes, Golang, Terraform, DevOps**
 
 - 📫 How to reach me **tejasmane485@gmail.com**
 
-- ⚡ Fun fact **I think I am debugger**
+- ⚡ Fun fact **DevOps engineers are like unicorns - everyone talks about them, but no one really knows what they do.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
