@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **debugging is my secret weapon. If there's a problem, I've got my detective hat on.**
 
-### Blogs posts
+### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [AWS Bastion Host: Secure Remote Access to Your Private Instances](https://medium.com/@tejasmane485/aws-bastion-host-secure-remote-access-to-your-private-instances-7012a5a74fb3?source=rss-cc9ef120f3a4------2)
 - [Securing Connectivity with TLS Certificates and Configuring Secure SSH and Web Servers](https://medium.com/@tejasmane485/securing-connectivity-with-tls-certificates-and-configuring-secure-ssh-and-web-servers-b3bee617a247?source=rss-cc9ef120f3a4------2)
