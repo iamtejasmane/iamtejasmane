@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in medium to posts
-        uses: iamtejasmane/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@tejasmane485"
