@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Bastion Host: Secure Remote Access to Your Private Instances](https://medium.com/@tejasmane485/aws-bastion-host-secure-remote-access-to-your-private-instances-7012a5a74fb3?source=rss-cc9ef120f3a4------2)
+- [Securing Connectivity with TLS Certificates and Configuring Secure SSH and Web Servers](https://medium.com/@tejasmane485/securing-connectivity-with-tls-certificates-and-configuring-secure-ssh-and-web-servers-b3bee617a247?source=rss-cc9ef120f3a4------2)
+- [Clear AWS Certifications in 2023: Your comprehensive Step-by-Step Guide](https://medium.com/@tejasmane485/clear-aws-certifications-in-2023-your-comprehensive-step-by-step-guide-be66ea3d6884?source=rss-cc9ef120f3a4------2)
+- [Run Jenkins as a Windows Server](https://medium.com/@tejasmane485/run-jenkins-as-a-windows-server-dc3e564266bf?source=rss-cc9ef120f3a4------2)
+- [AWS IAM Best Practices](https://medium.com/@tejasmane485/aws-iam-best-practices-f0a554daf69a?source=rss-cc9ef120f3a4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
