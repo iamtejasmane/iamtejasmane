@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">a DevOps enthusiast who loves to make tech work smoothly. I've done some cool stuff that makes me excited about what I do.</h3>
+<h3 align="center">DevOps Engineer who loves to make tech work smoothly. I've done some cool stuff that makes me excited about what I do.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejasmane" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamtejasmane" alt="iamtejasmane" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_tejasmane" target="blank"><img src="https://img.shields.io/twitter/follow/_tejasmane?logo=twitter&style=for-the-badge" alt="_tejasmane" /></a> </p>
 
