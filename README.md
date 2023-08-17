@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_tejasmane" target="blank"><img src="https://img.shields.io/twitter/follow/_tejasmane?logo=twitter&style=for-the-badge" alt="_tejasmane" /></a> </p>
 
-- 🔭 I’m currently working on [EKS web hosting using Terraform](https://platform9.com/)
+- 🔭 I’m currently working on [EKS web hosting Workshop](https://www.eksworkshop.com/)
 
 - 🌱 I’m currently learning **Istio Service Mesh**
 
