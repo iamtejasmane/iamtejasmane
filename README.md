@@ -1,32 +1,47 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">DevOps Engineer who loves to make tech work smoothly. I've done some cool stuff that makes me excited about what I do.</h3>
+<h3 align="center">I'm a DevOps Engineer who enjoys making technology run smoothly. I've done some cool projects that makes me excited about what I do.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejasmane" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_tejasmane" target="blank"><img src="https://img.shields.io/twitter/follow/_tejasmane?logo=twitter&style=for-the-badge" alt="_tejasmane" /></a> </p>
+| Domain                       | Skills/Tools                                                                       | Projects                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cloud**                    | AWS                                                                                | - [AWS three tier web app architecture](https://github.com/iamtejasmane/aws-three-tier-web-app)<br>- [AWS Serverless CRUD API](https://github.com/iamtejasmane/aws-serverless-crud-api)<br>- [EKS Kubernetes Workshop](https://www.eksworkshop.com/)                                                                                                                      |
+| **Orchestration**            | - Kubernetes<br>- AWS ECS                                                          | - [Kubernetes](https://github.com/iamtejasmane/kubernetes)<br> - [Amazon EKS - Building a Cloud Native Application](https://cloudacademy.com/lab/eks-voteapp/)                                                                                                                                                                                                            |
+| **Infrastructure as Code**   | Terraform                                                                          | - [AWS ECS Farget deployment using Terraform](https://github.com/iamtejasmane/ecs-farget-microservices-deployment-terraform)<br>- [Terraform Micro Modules](https://github.com/iamtejasmane/aws-terraform-projects)<br>- [Terraform](https://github.com/iamtejasmane/terraform)                                                                                           |
+| **Server Templating**        | Docker                                                                             | - [Docker](https://github.com/iamtejasmane/docker)                                                                                                                                                                                                                                                                                                                        |
+| **CI/CD**                    | - AWS Code Pipeline, CodeBuild, CodeDeploy.<br> - Jenkins<br> - Github Actions<br> | - [AWS CodePipeline Projects](https://github.com/iamtejasmane/aws-code-pipeline-repo)<br>- [Jenkins sample app deployment](https://github.com/iamtejasmane/jenkins)                                                                                                                                                                                                       |
+| **Programming Languages**    | - JavaScript<br>- Golang<br>- Python<br>- C++                                      | - [Go Projects](https://github.com/iamtejasmane/go-projects)<br>- NodeJS Full-Stack Web Development Projects<br>- [Solved 100+ Leetcode Problems](https://leetcode.com/iamtejas/)<br>- [Python 1 Month Challenge](https://github.com/iamtejasmane/python-1month-code)<br>- [C++](https://github.com/iamtejasmane/cpp)                                                     |
+| **Monitoring**               | Prometheus, Grafana, CloudWatch                                                    | - [AWS-ECS Prometheus Monitoring. Integration of NodeExporter, cAdvisior, Alertmanager and Grafana Dashboards.](https://github.com/iamtejasmane/prometheus-monitoring)                                                                                                                                                                                                    |
+| **Scripting**                | - Bash/Shell<br>- Python                                                           | - [Python Jenkins Automation Scripts](https://github.com/iamtejasmane/devops-automation-scripts/tree/main/jenkins)<br>- [Shell Scripts - Prometheus, Altermanager installation.](https://github.com/iamtejasmane/prometheus-monitoring/tree/main/scripts)                                                                                                                 |
+| **SCM**                      | GitHub, Gitlab, CodeCommit                                                         | - [Gitlab Profile](https://gitlab.com/tejasmane485)<br>- [AWS CodeCommit Commands Handbook on Gitlab](https://gitlab.com/cicd9353734/aws-codecommit)                                                                                                                                                                                                                      |
+| **Configuration Management** | Ansible                                                                            | Starting on _November 2023_                                                                                                                                                                                                                                                                                                                                               |
+| **Servers**                  | Nginx, Apache                                                                      | [Nginx](https://github.com/iamtejasmane/aws-three-tier-web-app/blob/9cb39e652ce853908084a81ffe31815688f8d41b/application-code/nginx.conf)                                                                                                                                                                                                                                 |
+| **Service Mesh**             | - Istio _(In Progress)_                                                            |                                                                                                                                                                                                                                                                                                                                                                           |
+| **Databases**                | - MySQL, DynamoDB, RDS                                                             | - [MySQL- Sequelize](https://github.com/iamtejasmane/ecs-farget-microservices-deployment-terraform/blob/main/backend/cab-assignment-app/db/db.js)<br>- [AWS DynamoDB](https://github.com/iamtejasmane/aws-serverless-crud-api#step1-create-a-dynamodb-table)<br>- [AWS RDS Multi-AZ](https://github.com/iamtejasmane/aws-three-tier-web-app#database-deployment---part-2) |
+|                              |
 
-- 🔭 I’m currently working on [EKS web hosting Workshop](https://www.eksworkshop.com/)
+- 🔭 I’m currently working on **Istio Service Mesh**
 
-- 🌱 I’m currently learning **Istio Service Mesh**
-
-- 👯 I’m looking to collaborate on **Kubernetes**
-
-- 📝 I regularly write articles on [https://medium.com/@tejasmane485](https://medium.com/@tejasmane485)
-
-- 💬 Ask me about **AWS, Kubernetes, Terraform, and GitHub Actions**
+- 💬 Ask me about **AWS, Kubernetes, Terraform, and CI/CD.**
 
 - 📫 How to reach me **tejasmane485@gmail.com**
 
-- ⚡ Fun fact **debugging is my secret weapon. If there's a problem, I've got my detective hat on.**
+- 👯 I’m looking to collaborate on **AWS and Kubernetes.**
+
+- ⚡ Fact about me: **debugging is my secret weapon. If there's a problem, I've got my detective hat on.**
 
 ### My Recent Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [AWS Bastion Host: Secure Remote Access to Your Private Instances](https://medium.com/@tejasmane485/aws-bastion-host-secure-remote-access-to-your-private-instances-7012a5a74fb3?source=rss-cc9ef120f3a4------2)
 - [Securing Connectivity with TLS Certificates and Configuring Secure SSH and Web Servers](https://medium.com/@tejasmane485/securing-connectivity-with-tls-certificates-and-configuring-secure-ssh-and-web-servers-b3bee617a247?source=rss-cc9ef120f3a4------2)
 - [Clear AWS Certifications in 2023: Your comprehensive Step-by-Step Guide](https://medium.com/@tejasmane485/clear-aws-certifications-in-2023-your-comprehensive-step-by-step-guide-be66ea3d6884?source=rss-cc9ef120f3a4------2)
 - [Run Jenkins as a Windows Server](https://medium.com/@tejasmane485/run-jenkins-as-a-windows-server-dc3e564266bf?source=rss-cc9ef120f3a4------2)
 - [AWS IAM Best Practices](https://medium.com/@tejasmane485/aws-iam-best-practices-f0a554daf69a?source=rss-cc9ef120f3a4------2)
 <!-- BLOG-POST-LIST:END -->
+
+<p align="left"> <a href="https://twitter.com/_tejasmane" target="blank"><img src="https://img.shields.io/twitter/follow/_tejasmane?logo=twitter&style=for-the-badge" alt="_tejasmane" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
