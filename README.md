@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">I'm a DevOps Engineer who enjoys making technology run smoothly. I've done some cool projects that makes me excited about what I do.</h3>
+<h3 align="center">I'm a Cloud & DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejasmane" /> </p>
 
