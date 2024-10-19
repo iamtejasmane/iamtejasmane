@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">I'm a Cloud & DevOps Engineer</h3>
+<h1 align="center">Hi there👋, I'm Tejas</h1>
+<h3 align="center">AWS / Kubernetes Engineer and Go Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejasmane" /> </p>
 
+I’m currently spending some time creating [**The Amazon ECS Handbook**](https://github.com/iamtejasmane/aws-ecs-handbook)
+
+### Projects and Techinical Landscape:
+
 | Domain                       | Skills/Tools                                                                      | Projects                                                                                                                                                                                                                                                                                                                                                                  |
 | ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cloud**                    | AWS                                                                               | - [AWS three tier web app architecture](https://github.com/iamtejasmane/aws-three-tier-web-app)<br>- [AWS Serverless CRUD API](https://github.com/iamtejasmane/aws-serverless-crud-api)<br>- [Completed EKS Kubernetes Workshop](https://www.eksworkshop.com/)                                                                                                            |
-| **Orchestration**            | - Kubernetes<br>- AWS ECS                                                         | - [Kubernetes](https://github.com/iamtejasmane/kubernetes)<br> - [Amazon EKS - Building a Cloud Native Application](https://github.com/iamtejasmane/aws-eks-web-app-hosting)<br>- [The Amazon ECS Handbook](https://github.com/iamtejasmane/aws-ecs-handbook)                                                                                                                                                                                              |
+| **Cloud**                    | AWS                                                                               | - [AWS three tier web app architecture](https://github.com/iamtejasmane/aws-three-tier-web-app)<br>- [AWS Serverless CRUD API](https://github.com/iamtejasmane/aws-serverless-crud-api)<br>- [The Amazon ECS Handbook](https://github.com/iamtejasmane/aws-ecs-handbook)                                                                                                              |
+| **Orchestration**            | - Kubernetes<br>- AWS ECS                                                         | - [Kubernetes](https://github.com/iamtejasmane/kubernetes)<br> - [Amazon EKS - Building a Cloud Native Application](https://github.com/iamtejasmane/aws-eks-web-app-hosting)                                                                                                                                                                                         |
 | **Infrastructure as Code**   | Terraform                                                                         | - [AWS ECS Farget deployment using Terraform](https://github.com/iamtejasmane/ecs-farget-microservices-deployment-terraform)<br>- [Terraform Micro Modules](https://github.com/iamtejasmane/aws-terraform-projects)<br>- [Terraform](https://github.com/iamtejasmane/terraform)                                                                                           |
 | **Server Templating**        | Docker                                                                            | - Docker                                                                                                                                                                                                                                                                                                                                                                  |
 | **CI/CD**                    | - AWS CodePipeline, CodeBuild, CodeDeploy.<br> - Jenkins<br> - Github Actions<br> | - [AWS CodePipeline Projects](https://github.com/iamtejasmane/aws-code-pipeline-repo)<br>- [Jenkins sample app deployment](https://github.com/iamtejasmane/jenkins)<br>- [Github Actions](https://github.com/iamtejasmane/ecs-farget-microservices-deployment-terraform/actions)                                                                                          |
@@ -20,7 +24,6 @@
 | **Databases**                | - MySQL, DynamoDB, RDS                                                            | - [MySQL- Sequelize](https://github.com/iamtejasmane/ecs-farget-microservices-deployment-terraform/blob/main/backend/cab-assignment-app/db/db.js)<br>- [AWS DynamoDB](https://github.com/iamtejasmane/aws-serverless-crud-api#step1-create-a-dynamodb-table)<br>- [AWS RDS Multi-AZ](https://github.com/iamtejasmane/aws-three-tier-web-app#database-deployment---part-2) |
 |                              |
 
-- 🔭 I’m currently working on [**The Amazon ECS Handbook**](https://github.com/iamtejasmane/aws-ecs-handbook)
 
 - 💬 Ask me about **AWS, Kubernetes, Terraform, and CI/CD.**
 
@@ -28,7 +31,7 @@
 
 - 👯 I’m looking to collaborate on **AWS and Kubernetes.**
 
-- ⚡ Fact about me: **debugging is my secret weapon. If there's a problem, I've got my detective hat on. Just like 221B Baker Street.**
+- ⚡ Fact about me: **Troubleshooting is my secret weapon. If there's an invisible bug or issue, I've got my detective hat on. Just like what's there in 221B Baker Street.**
 
 ### My Recent Blogs posts
 
