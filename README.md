@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejasmane" /> </p>
 
-I’m currently spending some time creating [**The Amazon ECS Handbook**](https://github.com/iamtejasmane/aws-ecs-handbook)
+I’m currently spending some time creating [**The Amazon ECS Handbook.**](https://github.com/iamtejasmane/aws-ecs-handbook)
 
-### Projects and Techinical Landscape:
+
+<h3 align="center"> My projects and Technology Landscape </h3>
+
 
 | Domain                       | Skills/Tools                                                                      | Projects                                                                                                                                                                                                                                                                                                                                                                  |
 | ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
