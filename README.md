@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Tejas</h1>
-<h3 align="center">AWS / Kubernetes Engineer and Go Developer.</h3>
+<h3 align="center">DevOps / Site Reliability Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejasmane" /> </p>
 
-I’m currently spending some time creating [**The Amazon ECS Handbook.**](https://github.com/iamtejasmane/aws-ecs-handbook)
+I’m currently spending some time creating [**AWS Architectures**](https://github.com/iamtejasmane/aws)
 
 
 <h3 align="center"> My projects and Technology Landscape </h3>
