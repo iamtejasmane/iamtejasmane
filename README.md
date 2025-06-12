@@ -35,6 +35,24 @@ I’m currently spending some time creating [**AWS Architectures**](https://gith
 
 - ⚡ Fact about me: **Troubleshooting is my secret weapon. If there's an invisible bug or issue, I've got my detective hat on. Just like what's there in 221B Baker Street.**
 
+### 🏆 Certifications
+
+<div align="left">
+<a href="https://www.credly.com/badges/2338dfc9-4704-4c00-be62-91460d192b09?source=linked_in_profile" title="AWS Certified Developer Associate">
+  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer Associate" width="80" height="80" />
+</a>
+<a href="https://www.credly.com/badges/c17a678a-a0a2-489f-b582-c8cda4fd437c" title="AWS Certified Solutions Architect – Associate">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80" />
+</a>
+<a href="https://www.credly.com/badges/ea80d958-a172-4817-bce1-3be6b0879b98" title="CKA: Certified Kubernetes Administrator">
+  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80" />
+</a>
+<a href="https://www.credly.com/badges/179ce107-b6be-4d69-8dbd-5f59dba83be6" title="
+HashiCorp Certified: Terraform Associate">
+  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="80" height="80" />
+</a>
+</div>
+
 ### My Recent Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
